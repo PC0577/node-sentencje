@@ -1,0 +1,14 @@
+{
+  "name": "student.b3-5-01",
+  "version": "1.0.0",
+  "description": "Serwer sentencji - laboratoria Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch indes.js"
+  },
+  "keywords": [],
+  "author": "Paweł Chwaszcz",
+  "license": "ISC",
+  "type": "module"
+}
